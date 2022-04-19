@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jdigital007
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning dbt, Soda, Great Expectations
+- 📫 jdigital007@hotmail.com
